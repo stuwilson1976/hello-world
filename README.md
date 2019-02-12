@@ -1,4 +1,3 @@
 # hello-world
-# Scott Wilson
+# Scott
 # test1
-#
